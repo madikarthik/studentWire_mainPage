@@ -1,0 +1,39 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif, 'Cocogoose', 'ComfortaaB', 'ComfortaaR', 'ComfortaaL';
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+@font-face {
+  font-family: "Cocogoose";
+  src: local("Cocogoose"),
+    url("./Assets/fonts/Cocogoose-Classic-Medium-trial.ttf") format("truetype");
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: "ComfortaaR";
+  src: local("ComfortaaR"),
+    url("./Assets/fonts/Comfortaa-Regular.ttf") format("truetype");
+  font-weight: normal;
+}
+@font-face {
+  font-family: "ComfortaaL";
+  src: local("ComfortaaL"),
+    url("./Assets/fonts/Comfortaa-Light.ttf") format("truetype");
+  font-weight: normal;
+}
+@font-face {
+  font-family: "ComfortaaB";
+  src: local("ComfortaaB"),
+    url("./Assets/fonts/Comfortaa-Bold.ttf") format("truetype");
+  font-weight: normal;
+}

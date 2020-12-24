@@ -1,0 +1,7 @@
+{
+    "connect_user": "connect@studentwire.in",
+    "connect_pass": "Adminworking@studentwire23",
+    "info_mail": "info@studentwire.in",
+    "admin_port": "465",
+    "admin_host":"mail.studentwire.in"
+}
