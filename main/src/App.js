@@ -8,9 +8,9 @@ import f4 from "./Assets/Img/f4.png";
 import f5 from "./Assets/Img/f5.png";
 import f6 from "./Assets/Img/f6.png";
 
-import { Fragment, useEffect, useState } from "react";
-import { Navbar, NavDropdown, Nav, Button } from "react-bootstrap";
-import { Link, animateScroll as scroll } from "react-scroll";
+import { Fragment } from "react";
+import { Navbar, Nav, Button } from "react-bootstrap";
+import { Link } from "react-scroll";
 function App() {
   return (
     <Fragment>
